@@ -20,13 +20,13 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
-[[menu.main]]
 URL = "about"
 name = "About Us"
 weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 7
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
